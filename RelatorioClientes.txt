@@ -1,0 +1,10 @@
+
+Nome: jvp
+Custo Total: 332R$
+Nome: Marcos
+Custo Total: 180R$
+Nome: jv
+Custo Total: 6R$
+Nome: jvpp
+Custo Total: 118R$Nome: gui
+Custo Total: null
